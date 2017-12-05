@@ -30,19 +30,16 @@ logo{
 	right: 0;
 }
 
-.description{
-	display: block;
-	position: static;
+.table{
+	margin: auto;
+	max-width: 100%;
+	overflow-x: auto;
 }
 
-.description table{
-	margin: auto;
-	padding: 0px;
-	border-collapse: collapse;
-	border-width: 0px;
-	display: block;
-	overflow: auto;
+.table table{
+	margin: auto;	
 }
+
 .description figure{
 	padding: 0;
 }
