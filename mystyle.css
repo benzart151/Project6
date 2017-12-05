@@ -29,9 +29,29 @@ logo{
 	right: 0;
 }
 
-.description{
+..description{
 	display: block;
 	position: static;
-	top:
-	float: left;
+}
+
+.description table{
+	margin: auto;
+	padding: 0px;
+	border-collapse: collapse;
+	border-width: 0px;
+	display: block;
+	overflow: auto;
+}
+.description figure{
+	padding: 0;
+}
+
+.list{
+	width: 40%;
+	margin: auto;
+}
+
+
+.cancel p{
+	font-size-adjust: -10%;
 }
